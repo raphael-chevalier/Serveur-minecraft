@@ -1,0 +1,19 @@
+{
+	id: "246533c8-feb2-4959-83a8-4a03a6be03d2"
+	type: "player"
+	player_name: "neantn76"
+	ranks: {
+		246533c8-feb2-4959-83a8-4a03a6be03d2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "neantn76"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596EFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,19 @@
+{
+	id: "ae7c62d5-66ff-4310-a913-09d0171d8abe"
+	type: "player"
+	player_name: "YuckMeUp"
+	ranks: {
+		ae7c62d5-66ff-4310-a913-09d0171d8abe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "YuckMeUp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BBFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

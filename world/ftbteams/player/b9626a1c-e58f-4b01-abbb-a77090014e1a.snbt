@@ -1,0 +1,19 @@
+{
+	id: "b9626a1c-e58f-4b01-abbb-a77090014e1a"
+	type: "player"
+	player_name: "angrysnake76"
+	ranks: {
+		b9626a1c-e58f-4b01-abbb-a77090014e1a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "angrysnake76"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DF59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

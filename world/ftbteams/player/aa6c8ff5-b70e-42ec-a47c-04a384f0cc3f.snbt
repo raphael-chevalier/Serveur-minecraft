@@ -1,0 +1,19 @@
+{
+	id: "aa6c8ff5-b70e-42ec-a47c-04a384f0cc3f"
+	type: "player"
+	player_name: "Stylael"
+	ranks: {
+		aa6c8ff5-b70e-42ec-a47c-04a384f0cc3f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Stylael"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

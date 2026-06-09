@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "5a039dced67f4a0c80f8abebc7721e08"
+	name: "Upsilon117#5a039dce"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4145F5BE1E32262B: 1L
+	}
+	started: {
+		4145F5BE1E32262B: 1780860937700L
+		1D4E5CDD59FFB7A0: 1780860937700L
+		2574E7CF699D5B45: 1780860937700L
+		0000000000000001: 1780860937700L
+	}
+	completed: {
+		4145F5BE1E32262B: 1780860937700L
+		2574E7CF699D5B45: 1780860937700L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

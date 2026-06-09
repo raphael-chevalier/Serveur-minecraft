@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "aa6c8ff5b70e42eca47c04a384f0cc3f"
+	name: "Stylael#aa6c8ff5"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4145F5BE1E32262B: 1L
+	}
+	started: {
+		4145F5BE1E32262B: 1780861201967L
+		1D4E5CDD59FFB7A0: 1780861201967L
+		2574E7CF699D5B45: 1780861201967L
+		0000000000000001: 1780861201967L
+	}
+	completed: {
+		4145F5BE1E32262B: 1780861201967L
+		2574E7CF699D5B45: 1780861201967L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

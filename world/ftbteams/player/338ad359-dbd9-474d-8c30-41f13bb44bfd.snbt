@@ -1,0 +1,19 @@
+{
+	id: "338ad359-dbd9-474d-8c30-41f13bb44bfd"
+	type: "player"
+	player_name: "Febzzz"
+	ranks: {
+		338ad359-dbd9-474d-8c30-41f13bb44bfd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Febzzz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

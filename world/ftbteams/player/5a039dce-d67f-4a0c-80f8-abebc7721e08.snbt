@@ -1,0 +1,19 @@
+{
+	id: "5a039dce-d67f-4a0c-80f8-abebc7721e08"
+	type: "player"
+	player_name: "Upsilon117"
+	ranks: {
+		5a039dce-d67f-4a0c-80f8-abebc7721e08: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Upsilon117"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}
